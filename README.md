@@ -1,4 +1,4 @@
-# Cycling Clipboard (Electronic Store) (cw3-1)
+# Cycling Clipboard
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118113.svg)](https://doi.org/10.5281/zenodo.4118113)
 ## (Full Documentation)
 It is tied in with composing a program in python of he idea behind this application is that athelets and coaches document and organize practices for a large number of athletes and capture data.
