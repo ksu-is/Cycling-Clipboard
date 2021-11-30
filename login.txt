@@ -1,4 +1,4 @@
-# My Vollyeyball project
+# Cycling Clipboard
 
 from tkinter import *
 
